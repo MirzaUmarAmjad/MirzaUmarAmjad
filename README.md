@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MirzaUmarAmjad
-- 👀 I’m interested in Backend Technologies like PHP, Python, RESTful APIs, Data Engineering and Automation.
-- 📫 You can reach me on amjadu@uwindsor.ca or mirza.umar.amjad@gmail.com
+- 📫 You can reach me on amjadu@uwindsor.ca or mirza.umar.amjad@gmail.com or umar.amjad@caseware.com
