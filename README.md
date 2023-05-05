@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MirzaUmarAmjad
-- 📫 You can reach me on amjadu@uwindsor.ca or mirza.umar.amjad@gmail.com or umar.amjad@caseware.com
+- 📫 You can reach me on mirza.umar.amjad@gmail.com or amjadu@uwindsor.ca
